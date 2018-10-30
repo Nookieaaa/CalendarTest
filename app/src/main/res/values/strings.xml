@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CalendarTest</string>
+    <string name="calendar_rationale">We need calendar permissions</string>
+    <string name="notification_channel_reminder">reminders</string>
 </resources>
